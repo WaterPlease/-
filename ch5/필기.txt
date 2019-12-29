@@ -1,0 +1,17 @@
+화학 에너지로 변환해서 활용 ㅇㅇ
+사람 효율은 34% 정도
+
+ATP : 세포의 에너지 단위
+RNA Adenosine에 인산기 3개 붙은 거
+DNA Adenoisine은 dATP에 이용
+GTP, CTP, TTP, UTP 등 다양 => 대사 과정 중 많이 생성. ATP 외에는 에너지원으로 사용 되기는 하는데 잘 사용은 안 됨...
+AGTC 중 Adenine만 산소 없음 => 탄소동화 작용이 있어야 산소 이용 가능 => 그 이전에 사용하려면 ATP 사용했다.
+
+?TP 결합 => 효소 기능에 의해 인산기 2개 떨어져 나가면서 나오는 에너지로 결합
+인산기가 물질에 달라붙어 대사과정 시작
+kinase : ATP의 인산기 뗴어서 다른 물질에 전달 (에너지 전달), 인산화 시켜 활성화 해준다.
+
+
+Enzyme : 단백질성 촉매
+-low activation energy
+-ex : reactant에 결합 => enzyme의 구조 변화 => 반응에 유리한 구조로. induced fit.=> 전자구조의 변화 => 적은 activation energy로 metabolism 가능
